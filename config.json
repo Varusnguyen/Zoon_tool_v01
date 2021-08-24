@@ -1,0 +1,19 @@
+{
+    "private": "",
+    "pets": [
+        {
+            "id": "85921",
+            "rare": 2,
+            "winrate": 0.6
+        }
+    ],
+    "waittime": 4,
+    "monsterTypes": {
+        "0.8": 0,
+        "0.7": 1,
+        "0.6": 2,
+        "0.2": 3
+    },
+    "ZoonAddress": "0xf70c08a428f300c7f3e3f09217211d21f7a50410",
+    "TimeFormat": "%Y-%m-%d-%H:%M:%S"
+}
